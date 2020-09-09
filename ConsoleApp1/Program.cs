@@ -13,7 +13,7 @@ namespace ConsoleApp1
             string myName = "Shariful Islam";
             Console.WriteLine("Hello World");
             Console.ReadLine();
-            Console.WriteLine("This is a test, my name is {0}", myName);
+            Console.WriteLine("This is a test, my full name is {0}", myName);
             Console.ReadLine();
 
         }
