@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            string myName = "Shariful Islam";
+            string myName = "Sharifu l";
             Console.WriteLine("Hello World");
             Console.ReadLine();
             Console.WriteLine("This is a test, my full name is {0}", myName);
