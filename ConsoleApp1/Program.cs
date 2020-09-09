@@ -15,7 +15,8 @@ namespace ConsoleApp1
             Console.ReadLine();
             Console.WriteLine("This is a test, my full name is {0}", myName);
             Console.ReadLine();
-
+            Console.WriteLine("Lol and done", myName);
+            Console.ReadLine();
         }
     }
 }
